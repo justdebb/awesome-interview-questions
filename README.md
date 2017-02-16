@@ -427,6 +427,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ## Comprehensive lists
 
 * [A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+* [Questions to Ask When Hiring a Web Developer](https://www.codementor.io/developers/web#guide)
 * [Front End Developer Interview Questions](http://www.aperfectmix.com/free_web_design/front-end-interview-questions.html)
 * [Some simple questions to interview potential backend candidates](https://github.com/starandtina/backend-interview-questions)
 
